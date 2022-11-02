@@ -5,3 +5,9 @@
 - Removes duplicate code: You get rid of many almost identical conditionals.
 
 - If you need to add a new execution variant, all you need to do is add a new subclass without touching the existing code (**_see:_** **Open/Closed Principle**).
+
+## Polymorphism
+
+- **Polymorphism** means _"many forms"_, and it occurs when we have many classes that are related to each other by inheritance. It gives a program the ability to redefine methods for derived classes.
+
+- It is useful for code reusability: reuse attributes and methods of an existing class when you create a new class.
